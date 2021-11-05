@@ -1,0 +1,8 @@
+logging_demo.py WARNING: This is a WARNING message
+logging_demo.py Level 35: This is a CUSTOM message
+logging_demo.py ERROR: This is an ERROR message
+logging_demo.py CRITICAL: This is a FATAL message
+logging_demo.py WARNING: This is a WARNING message
+logging_demo.py Level 35: This is a CUSTOM message
+logging_demo.py ERROR: This is an ERROR message
+logging_demo.py CRITICAL: This is a FATAL message
