@@ -1,8 +1,8 @@
-logging_demo.py WARNING: This is a WARNING message
-logging_demo.py Level 35: This is a CUSTOM message
-logging_demo.py ERROR: This is an ERROR message
-logging_demo.py CRITICAL: This is a FATAL message
-logging_demo.py WARNING: This is a WARNING message
-logging_demo.py Level 35: This is a CUSTOM message
-logging_demo.py ERROR: This is an ERROR message
-logging_demo.py CRITICAL: This is a FATAL message
+logging_demo.py 2021-11-05 15:52:45,814 root WARNING: This is a WARNING message
+logging_demo.py 2021-11-05 15:52:45,814 root Level 35: This is a CUSTOM message
+logging_demo.py 2021-11-05 15:52:45,814 root ERROR: This is an ERROR message
+logging_demo.py 2021-11-05 15:52:45,815 root CRITICAL: This is a FATAL message
+logging_demo.py 2021-11-05 15:52:45,815 root WARNING: This is a WARNING message
+logging_demo.py 2021-11-05 15:52:45,815 root Level 35: This is a CUSTOM message
+logging_demo.py 2021-11-05 15:52:45,815 root ERROR: This is an ERROR message
+logging_demo.py 2021-11-05 15:52:45,815 root CRITICAL: This is a FATAL message
